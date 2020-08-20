@@ -9,6 +9,7 @@ This challenge focuses on using the new for ES6 `class` syntax.
 - Student should be able to describe and demonstrate how class syntax works
 - Student should be able to convert a pseudo classically instantiated program into class syntax
   initial commit
+  second commit
 
 ## Instructions
 
